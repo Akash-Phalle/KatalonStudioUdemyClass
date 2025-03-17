@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTC_1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8af7517-7585-499a-bc11-11953e942bbf</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>57df5c8e-31bf-4f5d-acf5-7d323e46a03a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>100bb331-2793-4adc-b81f-c98a882c91b3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

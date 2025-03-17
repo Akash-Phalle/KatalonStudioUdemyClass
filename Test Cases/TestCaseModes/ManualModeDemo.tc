@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualModeDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18e02f1b-de20-4639-bf0c-b12ab01f0200</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4ece71d-b3b8-417a-bea0-a193a10588fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>557c4b0a-6145-49bb-807a-9ec4e08bf4ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>e4ece71d-b3b8-417a-bea0-a193a10588fe</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>557c4b0a-6145-49bb-807a-9ec4e08bf4ae</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

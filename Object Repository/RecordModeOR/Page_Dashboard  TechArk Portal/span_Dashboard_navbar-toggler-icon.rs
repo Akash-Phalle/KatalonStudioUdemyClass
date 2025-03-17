@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dashboard_navbar-toggler-icon</name>
+   <tag></tag>
+   <elementGuidId>2a3992ff-2715-4904-943a-38d3293ee8f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.navbar-toggler-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/nav/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Toggle navigation&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>940721db-22a6-469e-a483-4e5d6f2874eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-toggler-icon</value>
+      <webElementGuid>84e02224-82f7-47ec-b619-0f57cebbd264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-6 col-6&quot;]/nav[@class=&quot;navbar navbar-expand-lg navbar-light navigation-menu&quot;]/button[@class=&quot;navbar-toggler&quot;]/span[@class=&quot;navbar-toggler-icon&quot;]</value>
+      <webElementGuid>ebc87b82-87f0-41dd-969d-1add7e2f722f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/nav/button/span</value>
+      <webElementGuid>26aa92a6-e3a7-401b-8992-94d18aa40d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>44376c8f-3093-42fc-856d-7775a0dbb01f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
